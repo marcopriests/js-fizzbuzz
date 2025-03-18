@@ -19,7 +19,6 @@ Buon lavoro e buon divertimento!
 Ragionamento:
 
 - Dichiaro una variabile "contatore" e la inizializzo all'interno di un ciclo che si ripete finche essa non arrivi a 100 incrementando di 1 ogni iterazione.
-- Dichiaro la variabile "isFizz = false" e la variabile "isBuzz = false" fuori dal ciclo.
 - inserisco un controllo (if) all'interno del ciclo che verifichi, in base al resto, quali numeri siano multipli di 3 o di 5.
 - in base al risultato del controllo stampo il messaggio "Fizz" se "contatore % 3 = 0", stampo il messaggio "Buzz" se "contatore % 5 = 0", il messaggio "FizzBuzz" se "contatore % 3 = 0 && "contatore % 5 = 0" e, infine, stampo "contatore" in tutti gli altri casi.
 
